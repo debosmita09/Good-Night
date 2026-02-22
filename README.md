@@ -44,6 +44,7 @@ Privacy is foundational when dealing with sleep and mental health data.
 
 Sleep is personal. There is no universal template.
 
+
 ##Our Solution
 Good Night is a one-stop sleep ecosystem integrating:
 
@@ -81,6 +82,7 @@ Peer discussions
 Safe community space with confidentiality protections
 
 And to make the experience warmer, we added Luma, an interactive digital companion that grows with user consistency and adds emotional engagement to an otherwise clinical space.
+
 
 ##How We Built It
 This project pushed us technically in ways we had not experienced before.
@@ -130,6 +132,7 @@ Rather than compromise stability, we chose to remove it for this version.
 If we had more time, we would:
 Rebuild the graph component using a more stable charting library
 Integrate longitudinal sleep pattern analytics
+
 
 ##What This Project Means to Us
 Good Night is more than an app.
